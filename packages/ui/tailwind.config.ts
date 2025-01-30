@@ -1,3 +1,9 @@
+/**
+ * This file is not actually use it, is just in place so it doesn't fail when you add shadcn components.
+ * It will be removed once shadcn is compatible with tailwind v4
+ */
+
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: ["class"],
