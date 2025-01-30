@@ -1,4 +1,4 @@
-# Monorepo with Shad/cn and TailwindCSS v4
+# Monorepo with Shadcn/ui and TailwindCSS v4
 
 This project includes a `web` project and a `docs` project. Both uses a different them based on `tailwindcss` v4.
 
