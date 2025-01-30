@@ -3,8 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
-    "./*": "./src/ui/components/*.tsx",
-    "./lib/utils": "./src/ui/lib/utils.ts"
+    "./components/*": "./src/components/ui/*.tsx",
+    "./lib/utils": "./src/lib/utils.ts",
+    "./hooks/*": "./src/hooks/*.ts"
   },
   "scripts": {
     "lint": "eslint . --max-warnings 0",
