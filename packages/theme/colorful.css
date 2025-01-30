@@ -1,0 +1,15 @@
+@import "./base.css";
+
+:root {
+  --primary: 142 76% 36%;
+  --primary-foreground: 355 100% 97%;
+  --secondary: 217 91% 60%;
+  --secondary-foreground: 224 76% 48%;
+
+  @media (prefers-color-scheme: dark) {
+    --primary: 142 76% 36%;
+    --primary-foreground: 142 76% 97%;
+    --secondary: 217 91% 60%;
+    --secondary-foreground: 217 91% 97%;
+  }
+}
