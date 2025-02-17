@@ -1,0 +1,17 @@
+@import "./base.css";
+
+:root {
+  --primary: oklch(0.55 0.18 142);
+  --primary-foreground: oklch(0.97 0.015 355);
+  --secondary: oklch(0.65 0.2 217);
+  --secondary-foreground: oklch(0.48 0.15 224);
+
+  @media (prefers-color-scheme: dark) {
+    --primary: oklch(0.55 0.18 142);
+    --primary-foreground: oklch(0.97 0.18 142);
+    --secondary: oklch(0.65 0.2 217);
+    --secondary-foreground: oklch(0.97 0.2 217);
+  }
+}
+
+@theme inline {}

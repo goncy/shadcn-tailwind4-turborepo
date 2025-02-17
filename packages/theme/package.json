@@ -1,0 +1,15 @@
+{
+  "name": "@repo/theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "goncy",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^4.0.6"
+  }
+}

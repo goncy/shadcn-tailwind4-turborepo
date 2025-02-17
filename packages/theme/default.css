@@ -1,0 +1,7 @@
+@import "./base.css";
+
+:root {
+  @media (prefers-color-scheme: dark) {}
+}
+
+@theme inline {}
