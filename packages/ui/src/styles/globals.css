@@ -18,12 +18,12 @@
   --popover-foreground: oklch(0.2 0 0);
 
   /* Primary colors */
-  --primary: oklch(0.25 0 0);
-  --primary-foreground: oklch(0.98 0 0);
+  --primary: oklch(0.65 0.2 280);
+  --primary-foreground: oklch(1 0 0);
 
   /* Secondary colors */
-  --secondary: oklch(0.96 0 0);
-  --secondary-foreground: oklch(0.25 0 0);
+  --secondary: oklch(0.9 0.1 280);
+  --secondary-foreground: oklch(0.3 0.15 280);
 
   /* State colors */
   --muted: oklch(0.96 0 0);
